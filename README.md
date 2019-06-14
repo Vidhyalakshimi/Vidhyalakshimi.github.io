@@ -1,8 +1,9 @@
-### My Portfolio
+## Vidhyalakshimi Sreenivasan
 
+### My portfolio
 [LinkedIn](https://www.linkedin.com/in/vidhyalakshimi-sreenivasan/) ; [Github](https://github.com/Vidhyalakshimi) 
 
-A Computer Science graduate student from NCState. As everyone nowadays are diving into Machine learning, I found myself in the same path by specializing in the Data Science track during my masters. With past experience as an Application developer at Thoughtworks, India, I had worked on challenging web application projects comprising of interesting technologies and features. 
+A Computer Science graduate student from NCState. Nowadays as everyone are diving into Machine learning, I found myself in the same path by specializing in the Data Science track during my masters. With past experience as an Application developer at Thoughtworks, India, I had worked on challenging web application projects comprising of interesting technologies and features. 
 
 ### Work experience
 Blackrock Internship
