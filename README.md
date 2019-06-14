@@ -1,8 +1,38 @@
-## Welcome to GitHub Pages
+## Vidhyalakshimi Sreenivasan
 
-You can use the [editor on GitHub](https://github.com/Vidhyalakshimi/Vidhyalakshimi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[LinkedIn](https://www.linkedin.com/in/vidhyalakshimi-sreenivasan/) ; [Github](https://github.com/Vidhyalakshimi) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A Computer Science graduate student from NCState. As everyone nowadays are diving into Machine learning, I found myself in the same path by specializing in the Data Science track during my masters. With past experience as an Application developer at Thoughtworks, India, I had worked on challenging web application projects comprising of interesting technologies and features. 
+
+### Work experience
+Blackrock Internship
+
+ThoughtWorks
+
+Amazon Internship
+
+### Educational background
+NCSU - Masters in Computer Science, Specialized in Data Science track
+
+SSN  - Bachelors in Computer Science and Engineering
+
+### Project work
+ADBI final project
+
+DIC project
+
+CG snake game
+
+DDDM project
+
+### Extra Curricular Activities
+Ambassador, Women in Computer Science @ NCSU
+
+### Work other than CompSci :)
+Artwork
+
+Crochet Projects
+
 
 ### Markdown
 
