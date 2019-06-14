@@ -1,4 +1,4 @@
-## Vidhyalakshimi Sreenivasan
+### My Portfolio
 
 [LinkedIn](https://www.linkedin.com/in/vidhyalakshimi-sreenivasan/) ; [Github](https://github.com/Vidhyalakshimi) 
 
